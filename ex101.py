@@ -3,7 +3,7 @@ persian_pet = "I'm split\non a line."
 backslash_pet = "I'm \\ a \\ cat."
 
 fat_pet = """I'll do a list:
-    \t* pet food
+    \t* cat food
     \t* Fishes
     \t* Catnip\n\t* Grass
     """
